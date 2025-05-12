@@ -1,0 +1,4802 @@
+[
+  {
+    "site": "Site A",
+    "route_id": "route_1",
+    "city": "Amsterdam",
+    "latitude": 51.076035255586454,
+    "longitude": 4.433882927032201,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_1",
+    "city": "Brussels",
+    "latitude": 50.131603156211,
+    "longitude": 6.025437378507306,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 5,
+      "gridScore": 3,
+      "accessibilityScore": 2
+    },
+    "totalScore": 16
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_1",
+    "city": "Stuttgart",
+    "latitude": 49.3181212624844,
+    "longitude": 7.919914951402923,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 3,
+      "gridScore": 3,
+      "accessibilityScore": 4
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_2",
+    "city": "Warsaw",
+    "latitude": 51.05043642271733,
+    "longitude": 20.430902037101124,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 5,
+      "gridScore": 5,
+      "accessibilityScore": 4
+    },
+    "totalScore": 22
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_2",
+    "city": "Bratislava",
+    "latitude": 49.576041816986624,
+    "longitude": 19.221410488667683,
+    "color": "orange",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 2,
+      "accessibilityScore": 2
+    },
+    "totalScore": 13
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_2",
+    "city": "Vienna",
+    "latitude": 48.47232563912629,
+    "longitude": 17.58706264072492,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 3,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_3",
+    "city": "Barcelona",
+    "latitude": 41.58248111414871,
+    "longitude": -0.1189005767175777,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_3",
+    "city": "Lyon",
+    "latitude": 43.21197536649274,
+    "longitude": 1.2854884375237194,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 2,
+      "accessibilityScore": 4
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_3",
+    "city": "Geneva",
+    "latitude": 45.22636636690359,
+    "longitude": 4.087778872776458,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 3,
+      "accessibilityScore": 5
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_4",
+    "city": "Munich",
+    "latitude": 47.6745003879041,
+    "longitude": 9.735045369750496,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 5,
+      "accessibilityScore": 2
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_4",
+    "city": "Milan",
+    "latitude": 45.83753263850849,
+    "longitude": 9.063460788652137,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 3,
+      "gridScore": 3,
+      "accessibilityScore": 4
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_4",
+    "city": "Lyon",
+    "latitude": 45.6332492869298,
+    "longitude": 6.734725450038679,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 3,
+      "accessibilityScore": 3
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_5",
+    "city": "Hamburg",
+    "latitude": 52.59658311885898,
+    "longitude": 9.629783849396965,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 3,
+      "gridScore": 4,
+      "accessibilityScore": 2
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_5",
+    "city": "Frankfurt",
+    "latitude": 51.164807797147446,
+    "longitude": 9.083909623492412,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 5,
+      "accessibilityScore": 4
+    },
+    "totalScore": 23
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_5",
+    "city": "Stuttgart",
+    "latitude": 49.73226232615352,
+    "longitude": 8.824128123033718,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 4
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_6",
+    "city": "Stockholm",
+    "latitude": 58.008225565472856,
+    "longitude": 16.272026738986366,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 3,
+      "accessibilityScore": 2
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_6",
+    "city": "Gothenburg",
+    "latitude": 56.02661391368214,
+    "longitude": 13.577166847465914,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 4,
+      "accessibilityScore": 4
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_6",
+    "city": "Oslo",
+    "latitude": 57.96355118929083,
+    "longitude": 11.833427386036684,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 4,
+      "accessibilityScore": 2
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_7",
+    "city": "Budapest",
+    "latitude": 45.87665651944954,
+    "longitude": 19.882543411297693,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 5,
+      "accessibilityScore": 3
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_7",
+    "city": "Zagreb",
+    "latitude": 45.125846424448575,
+    "longitude": 18.975335455064386,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 2,
+      "accessibilityScore": 3
+    },
+    "totalScore": 14
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_7",
+    "city": "Ljubljana",
+    "latitude": 45.74068934509728,
+    "longitude": 16.30467877815097,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 4,
+      "accessibilityScore": 3
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_8",
+    "city": "Marseille",
+    "latitude": 43.50348471283357,
+    "longitude": 6.316516155725604,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_8",
+    "city": "Genoa",
+    "latitude": 43.89559358849729,
+    "longitude": 7.711034255257385,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 5,
+      "accessibilityScore": 4
+    },
+    "totalScore": 23
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_8",
+    "city": "Milan",
+    "latitude": 44.51982229370477,
+    "longitude": 8.972595081216564,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 3,
+      "gridScore": 5,
+      "accessibilityScore": 5
+    },
+    "totalScore": 23
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_9",
+    "city": "Hamburg",
+    "latitude": 53.1436,
+    "longitude": 9.48802,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 4,
+      "accessibilityScore": 3
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_9",
+    "city": "Dortmund",
+    "latitude": 52.532349999999994,
+    "longitude": 8.7295,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 3,
+      "accessibilityScore": 5
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_9",
+    "city": "Dortmund",
+    "latitude": 51.921099999999996,
+    "longitude": 7.97098,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 2,
+      "accessibilityScore": 4
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_10",
+    "city": "Barcelona",
+    "latitude": 40.131185647879285,
+    "longitude": 0.504067594192672,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 5,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_10",
+    "city": "Madrid",
+    "latitude": 40.02569416567785,
+    "longitude": -2.329415520427749,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 5,
+      "gridScore": 4,
+      "accessibilityScore": 5
+    },
+    "totalScore": 22
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_10",
+    "city": "Seville",
+    "latitude": 39.05672445447037,
+    "longitude": -4.728315076358103,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 5,
+      "accessibilityScore": 2
+    },
+    "totalScore": 22
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_11",
+    "city": "Dublin",
+    "latitude": 52.652939689922604,
+    "longitude": -7.324004709511783,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 4,
+      "accessibilityScore": 2
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_11",
+    "city": "Cork",
+    "latitude": 52.284603036637016,
+    "longitude": -8.11142878325199,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 5,
+      "accessibilityScore": 5
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_11",
+    "city": "Belfast",
+    "latitude": 53.672221214654805,
+    "longitude": -6.8026315133007955,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 2
+    },
+    "totalScore": 14
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_12",
+    "city": "Berlin",
+    "latitude": 51.89320990362558,
+    "longitude": 12.85701669029165,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 4,
+      "accessibilityScore": 2
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_12",
+    "city": "Dresden",
+    "latitude": 51.233149271043715,
+    "longitude": 12.875542116979503,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 2,
+      "gridScore": 5,
+      "accessibilityScore": 4
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_12",
+    "city": "Prague",
+    "latitude": 50.75161807398272,
+    "longitude": 13.951985341240233,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 3,
+      "accessibilityScore": 4
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_13",
+    "city": "Lisbon",
+    "latitude": 40.07834967938758,
+    "longitude": -8.85500508142926,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 5,
+      "accessibilityScore": 4
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_13",
+    "city": "Santiago de Compostela",
+    "latitude": 42.14019593448216,
+    "longitude": -8.580964472896095,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 4,
+      "accessibilityScore": 5
+    },
+    "totalScore": 23
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_13",
+    "city": "Oviedo",
+    "latitude": 43.1162152867098,
+    "longitude": -7.218468795125899,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 2,
+      "gridScore": 5,
+      "accessibilityScore": 3
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_14",
+    "city": "Rome",
+    "latitude": 40.992028152806,
+    "longitude": 14.031713493504858,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 3,
+      "gridScore": 4,
+      "accessibilityScore": 5
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_14",
+    "city": "Florence",
+    "latitude": 42.523581093047284,
+    "longitude": 12.542174238609107,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 5,
+      "accessibilityScore": 5
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_14",
+    "city": "Milan",
+    "latitude": 44.33202758471853,
+    "longitude": 10.570173359783107,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 3,
+      "gridScore": 4,
+      "accessibilityScore": 2
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_15",
+    "city": "Vienna",
+    "latitude": 48.033236211863084,
+    "longitude": 14.91739212423176,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 2,
+      "accessibilityScore": 2
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_15",
+    "city": "Munich",
+    "latitude": 47.879546466243504,
+    "longitude": 12.738112884592505,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 5,
+      "gridScore": 5,
+      "accessibilityScore": 4
+    },
+    "totalScore": 22
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_15",
+    "city": "Stuttgart",
+    "latitude": 48.39732148076664,
+    "longitude": 10.600112135933747,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 4,
+      "accessibilityScore": 4
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_16",
+    "city": "Warsaw",
+    "latitude": 52.30047276603967,
+    "longitude": 19.37525435877693,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 3,
+      "accessibilityScore": 4
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_16",
+    "city": "Wroc\u0142aw",
+    "latitude": 52.401051208408695,
+    "longitude": 16.92566670626669,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 4,
+      "accessibilityScore": 4
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_16",
+    "city": "Prague",
+    "latitude": 50.68003441597225,
+    "longitude": 15.960671615283834,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 3,
+      "gridScore": 4,
+      "accessibilityScore": 4
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_17",
+    "city": "Turin",
+    "latitude": 45.400500591855256,
+    "longitude": 6.329731299556448,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 5,
+      "accessibilityScore": 3
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_17",
+    "city": "Geneva",
+    "latitude": 45.94196484832197,
+    "longitude": 5.364058399593505,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 5,
+      "accessibilityScore": 2
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_17",
+    "city": "Zurich",
+    "latitude": 46.76347095387537,
+    "longitude": 7.286851755113065,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 4,
+      "accessibilityScore": 5
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_18",
+    "city": "Athens",
+    "latitude": 39.293718008819,
+    "longitude": 23.341324947217498,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 5,
+      "gridScore": 5,
+      "accessibilityScore": 2
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_18",
+    "city": "Skopje",
+    "latitude": 41.06986333375214,
+    "longitude": 22.463685343174152,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 5,
+      "accessibilityScore": 5
+    },
+    "totalScore": 24
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_18",
+    "city": "Sofia",
+    "latitude": 42.22505633296248,
+    "longitude": 22.04064111701451,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 4,
+      "accessibilityScore": 3
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_19",
+    "city": "Rotterdam",
+    "latitude": 52.15867516463675,
+    "longitude": 4.47978076183713,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 3,
+      "accessibilityScore": 2
+    },
+    "totalScore": 16
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_19",
+    "city": "Amsterdam",
+    "latitude": 52.20790813315504,
+    "longitude": 4.834337379890755,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 4,
+      "accessibilityScore": 4
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_19",
+    "city": "Antwerp",
+    "latitude": 51.61480325326202,
+    "longitude": 4.575234951956302,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 2
+    },
+    "totalScore": 16
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_20",
+    "city": "Paris",
+    "latitude": 49.75522879806493,
+    "longitude": 2.7096541157145335,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 2,
+      "gridScore": 4,
+      "accessibilityScore": 4
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_20",
+    "city": "Brussels",
+    "latitude": 50.71508645633477,
+    "longitude": 3.5601106245125402,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 4,
+      "accessibilityScore": 2
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_20",
+    "city": "Amsterdam",
+    "latitude": 51.45883972681248,
+    "longitude": 4.573249690299356,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 5,
+      "accessibilityScore": 4
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_21",
+    "city": "Brussels",
+    "latitude": 50.435399999999994,
+    "longitude": 5.31794,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_21",
+    "city": "Stuttgart",
+    "latitude": 49.81305,
+    "longitude": 6.7673000000000005,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 5,
+      "gridScore": 3,
+      "accessibilityScore": 3
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_21",
+    "city": "Stuttgart",
+    "latitude": 49.1907,
+    "longitude": 8.216660000000001,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 4,
+      "accessibilityScore": 4
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_22",
+    "city": "Vienna",
+    "latitude": 48.011429729588926,
+    "longitude": 17.515079049591833,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 5,
+      "accessibilityScore": 2
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_22",
+    "city": "Budapest",
+    "latitude": 47.37367056704934,
+    "longitude": 19.10474542182628,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 3,
+      "accessibilityScore": 2
+    },
+    "totalScore": 16
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_22",
+    "city": "Belgrade",
+    "latitude": 45.821428226819734,
+    "longitude": 19.911238168730513,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 2,
+      "gridScore": 3,
+      "accessibilityScore": 3
+    },
+    "totalScore": 16
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_23",
+    "city": "Hamburg",
+    "latitude": 52.91056838944201,
+    "longitude": 9.19884349735715,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 2,
+      "gridScore": 4,
+      "accessibilityScore": 4
+    },
+    "totalScore": 16
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_23",
+    "city": "Dortmund",
+    "latitude": 51.949770973605034,
+    "longitude": 8.006558743392873,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_23",
+    "city": "Frankfurt",
+    "latitude": 50.88201743593783,
+    "longitude": 8.013178850752723,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 4,
+      "accessibilityScore": 4
+    },
+    "totalScore": 22
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_24",
+    "city": "Madrid",
+    "latitude": 39.89935930779104,
+    "longitude": -1.885462368438773,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 2,
+      "gridScore": 5,
+      "accessibilityScore": 5
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_24",
+    "city": "Barcelona",
+    "latitude": 40.230671813258674,
+    "longitude": 0.6365132269557434,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 4,
+      "accessibilityScore": 5
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_24",
+    "city": "Montpellier",
+    "latitude": 42.110616966245466,
+    "longitude": 2.7286804767254105,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 2
+    },
+    "totalScore": 14
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_25",
+    "city": "Geneva",
+    "latitude": 46.93223905233882,
+    "longitude": 7.632088671244915,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 2,
+      "accessibilityScore": 4
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_25",
+    "city": "Munich",
+    "latitude": 47.73342761711575,
+    "longitude": 9.971337185857323,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 4,
+      "accessibilityScore": 2
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_25",
+    "city": "Stuttgart",
+    "latitude": 48.348198108323594,
+    "longitude": 10.784054515874619,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 3,
+      "accessibilityScore": 4
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_26",
+    "city": "Krak\u00f3w",
+    "latitude": 50.59936697092649,
+    "longitude": 18.45534360525515,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 3,
+      "accessibilityScore": 4
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_26",
+    "city": "Pozna\u0144",
+    "latitude": 51.97332350016414,
+    "longitude": 16.962987884044207,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 2,
+      "gridScore": 3,
+      "accessibilityScore": 5
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_26",
+    "city": "Berlin",
+    "latitude": 52.46895137327139,
+    "longitude": 14.986878308187155,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 5,
+      "accessibilityScore": 4
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_27",
+    "city": "Paris",
+    "latitude": 48.14365300261652,
+    "longitude": 3.6015994266019864,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 3,
+      "accessibilityScore": 2
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_27",
+    "city": "Lyon",
+    "latitude": 46.826388003153596,
+    "longitude": 4.976033408888966,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 3,
+      "gridScore": 2,
+      "accessibilityScore": 2
+    },
+    "totalScore": 16
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_27",
+    "city": "Marseille",
+    "latitude": 44.70244464516211,
+    "longitude": 5.065477797373422,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 2
+    },
+    "totalScore": 14
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_28",
+    "city": "Stockholm",
+    "latitude": 61.6161702267217,
+    "longitude": 16.0294309822819,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 5,
+      "gridScore": 4,
+      "accessibilityScore": 3
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_28",
+    "city": "Trondheim",
+    "latitude": 63.32719840706473,
+    "longitude": 12.138278412261592,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 3,
+      "accessibilityScore": 3
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_28",
+    "city": "Bergen",
+    "latitude": 61.965952939369515,
+    "longitude": 7.9504937751452855,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 5,
+      "gridScore": 2,
+      "accessibilityScore": 4
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_29",
+    "city": "Oslo",
+    "latitude": 59.02528418952816,
+    "longitude": 11.244827649306478,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_29",
+    "city": "Copenhagen",
+    "latitude": 57.690747289732805,
+    "longitude": 11.979901684418357,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 16
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_29",
+    "city": "Malmo",
+    "latitude": 56.22781674645352,
+    "longitude": 12.407165489782834,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 5,
+      "gridScore": 4,
+      "accessibilityScore": 4
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_30",
+    "city": "Warsaw",
+    "latitude": 51.78709758235056,
+    "longitude": 19.54827251361094,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 3,
+      "accessibilityScore": 4
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_30",
+    "city": "Pozna\u0144",
+    "latitude": 52.30368461013405,
+    "longitude": 17.326856533795965,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 2,
+      "accessibilityScore": 4
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_30",
+    "city": "Prague",
+    "latitude": 51.12125306911754,
+    "longitude": 15.55376644391565,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 5,
+      "accessibilityScore": 3
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_31",
+    "city": "Munich",
+    "latitude": 48.43412958207132,
+    "longitude": 10.462284266665664,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 5,
+      "accessibilityScore": 2
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_31",
+    "city": "Stuttgart",
+    "latitude": 48.36158658139527,
+    "longitude": 9.183788064763888,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 2,
+      "accessibilityScore": 3
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_31",
+    "city": "Milan",
+    "latitude": 46.623154632558105,
+    "longitude": 9.187515225905555,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 4,
+      "accessibilityScore": 3
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_32",
+    "city": "Hamburg",
+    "latitude": 53.785949537149364,
+    "longitude": 10.907153196959694,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 3,
+      "accessibilityScore": 5
+    },
+    "totalScore": 22
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_32",
+    "city": "Rostock",
+    "latitude": 54.044335286329755,
+    "longitude": 12.276741795349716,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 3,
+      "accessibilityScore": 3
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_32",
+    "city": "Szczecin",
+    "latitude": 53.674834114531905,
+    "longitude": 13.642376718139886,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 2,
+      "gridScore": 5,
+      "accessibilityScore": 3
+    },
+    "totalScore": 16
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_33",
+    "city": "Madrid",
+    "latitude": 38.85549563577138,
+    "longitude": -4.879896331702682,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 3,
+      "accessibilityScore": 3
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_33",
+    "city": "Cordoba",
+    "latitude": 37.80853892669438,
+    "longitude": -4.971745340494076,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 3,
+      "gridScore": 4,
+      "accessibilityScore": 5
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_33",
+    "city": "Valencia",
+    "latitude": 38.80906678035487,
+    "longitude": -2.2159122838841023,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 2,
+      "accessibilityScore": 4
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_34",
+    "city": "Barcelona",
+    "latitude": 42.53358621466512,
+    "longitude": 2.808961487618457,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_34",
+    "city": "Marseille",
+    "latitude": 43.11598812976113,
+    "longitude": 4.634744259886143,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 2,
+      "gridScore": 4,
+      "accessibilityScore": 4
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_34",
+    "city": "Lyon",
+    "latitude": 44.48109420682151,
+    "longitude": 5.1133899631759405,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 3,
+      "accessibilityScore": 5
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_35",
+    "city": "Budapest",
+    "latitude": 47.88971270721796,
+    "longitude": 17.56937161407014,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 4,
+      "accessibilityScore": 3
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_35",
+    "city": "Salzburg",
+    "latitude": 48.08344708136404,
+    "longitude": 15.335350071810883,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 2
+    },
+    "totalScore": 14
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_35",
+    "city": "Munich",
+    "latitude": 47.81111789559013,
+    "longitude": 13.068467448920288,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 2,
+      "gridScore": 5,
+      "accessibilityScore": 2
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_36",
+    "city": "Dover",
+    "latitude": 50.93886206946331,
+    "longitude": 1.9049840842635026,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 2,
+      "accessibilityScore": 2
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_36",
+    "city": "Lille",
+    "latitude": 50.69494194815379,
+    "longitude": 2.812660760455957,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 15
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_36",
+    "city": "Brussels",
+    "latitude": 50.744799080334325,
+    "longitude": 3.7340591568736006,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 2,
+      "accessibilityScore": 3
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_37",
+    "city": "Zurich",
+    "latitude": 46.14422001914291,
+    "longitude": 8.959510650697784,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 2,
+      "gridScore": 5,
+      "accessibilityScore": 5
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_37",
+    "city": "Turin",
+    "latitude": 45.15130067095061,
+    "longitude": 7.995993954064119,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 2,
+      "accessibilityScore": 2
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_37",
+    "city": "Lyon",
+    "latitude": 45.456304539679074,
+    "longitude": 6.100369592715914,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 3,
+      "accessibilityScore": 3
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_38",
+    "city": "Amsterdam",
+    "latitude": 51.7700139843629,
+    "longitude": 5.90453424782957,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 2,
+      "accessibilityScore": 3
+    },
+    "totalScore": 15
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_38",
+    "city": "Frankfurt",
+    "latitude": 50.87363496090723,
+    "longitude": 7.405185619573926,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 4,
+      "accessibilityScore": 5
+    },
+    "totalScore": 22
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_38",
+    "city": "Stuttgart",
+    "latitude": 49.86688899275156,
+    "longitude": 8.77362925805559,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 3,
+      "accessibilityScore": 4
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_39",
+    "city": "Turin",
+    "latitude": 45.305805141207436,
+    "longitude": 8.585574226323684,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 4,
+      "accessibilityScore": 5
+    },
+    "totalScore": 22
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_39",
+    "city": "Bologna",
+    "latitude": 45.148584403874665,
+    "longitude": 9.89091213475642,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 3,
+      "gridScore": 2,
+      "accessibilityScore": 4
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_39",
+    "city": "Florence",
+    "latitude": 44.57641971690628,
+    "longitude": 11.161562815833634,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 2,
+      "gridScore": 5,
+      "accessibilityScore": 3
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_40",
+    "city": "Thessaloniki",
+    "latitude": 40.35207693056138,
+    "longitude": 23.02931166874125,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 2,
+      "gridScore": 4,
+      "accessibilityScore": 5
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_40",
+    "city": "Skopje",
+    "latitude": 43.287113554787645,
+    "longitude": 20.97400256903348,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 5,
+      "accessibilityScore": 3
+    },
+    "totalScore": 23
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_40",
+    "city": "Zagreb",
+    "latitude": 45.26106193088916,
+    "longitude": 18.38800789062437,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 3,
+      "gridScore": 3,
+      "accessibilityScore": 5
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_41",
+    "city": "Stockholm",
+    "latitude": 58.8621684169517,
+    "longitude": 16.31181163472205,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 3,
+      "accessibilityScore": 5
+    },
+    "totalScore": 22
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_41",
+    "city": "Malmo",
+    "latitude": 58.16147104237923,
+    "longitude": 13.676629086805132,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 3,
+      "gridScore": 5,
+      "accessibilityScore": 5
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_41",
+    "city": "Copenhagen",
+    "latitude": 56.841541239558204,
+    "longitude": 12.398900411733777,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 4,
+      "accessibilityScore": 4
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_42",
+    "city": "Paris",
+    "latitude": 49.57026199450317,
+    "longitude": 3.0679381541902457,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 2
+    },
+    "totalScore": 15
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_42",
+    "city": "Amsterdam",
+    "latitude": 50.64075498625793,
+    "longitude": 4.141545385475615,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 3,
+      "accessibilityScore": 2
+    },
+    "totalScore": 16
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_42",
+    "city": "Rotterdam",
+    "latitude": 51.99606572874166,
+    "longitude": 4.7688363530988545,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 3,
+      "accessibilityScore": 3
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_43",
+    "city": "Berlin",
+    "latitude": 51.0656564418111,
+    "longitude": 14.613205490553103,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 3,
+      "gridScore": 5,
+      "accessibilityScore": 2
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_43",
+    "city": "Wroc\u0142aw",
+    "latitude": 50.90291767800998,
+    "longitude": 18.168505054010936,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 5,
+      "accessibilityScore": 3
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_43",
+    "city": "Lviv",
+    "latitude": 50.26498707120399,
+    "longitude": 21.685222021604375,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 5,
+      "accessibilityScore": 2
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_44",
+    "city": "Madrid",
+    "latitude": 39.86310072337261,
+    "longitude": -5.474471591078391,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 5,
+      "accessibilityScore": 3
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_44",
+    "city": "Porto",
+    "latitude": 39.03255180843153,
+    "longitude": -8.130478977695976,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 2,
+      "accessibilityScore": 3
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_44",
+    "city": "Vigo",
+    "latitude": 40.405538791209345,
+    "longitude": -8.786537978472046,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 5,
+      "accessibilityScore": 5
+    },
+    "totalScore": 22
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_45",
+    "city": "Budapest",
+    "latitude": 46.15168736715536,
+    "longitude": 22.1359498866656,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 5,
+      "gridScore": 4,
+      "accessibilityScore": 3
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_45",
+    "city": "Sofia",
+    "latitude": 44.03691369925023,
+    "longitude": 25.475516107879926,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_45",
+    "city": "Istanbul",
+    "latitude": 41.97431689138864,
+    "longitude": 25.743809768487804,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 3,
+      "accessibilityScore": 4
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_46",
+    "city": "Copenhagen",
+    "latitude": 56.161618567052344,
+    "longitude": 12.731509573073684,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 4,
+      "accessibilityScore": 2
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_46",
+    "city": "Gothenburg",
+    "latitude": 57.591115891108714,
+    "longitude": 12.03221842524403,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 5,
+      "accessibilityScore": 2
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_46",
+    "city": "Oslo",
+    "latitude": 58.9860285558015,
+    "longitude": 11.266590046888094,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 3,
+      "accessibilityScore": 2
+    },
+    "totalScore": 16
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_47",
+    "city": "Warsaw",
+    "latitude": 52.2928403724984,
+    "longitude": 19.551788554606944,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 5,
+      "accessibilityScore": 5
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_47",
+    "city": "Wroc\u0142aw",
+    "latitude": 52.387550931246,
+    "longitude": 17.361171386517363,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 2,
+      "gridScore": 5,
+      "accessibilityScore": 3
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_47",
+    "city": "Zabrze",
+    "latitude": 50.92270330806096,
+    "longitude": 17.45175116239578,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 5,
+      "accessibilityScore": 4
+    },
+    "totalScore": 22
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_48",
+    "city": "Munich",
+    "latitude": 49.208114333360115,
+    "longitude": 11.646704353178059,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 3,
+      "gridScore": 3,
+      "accessibilityScore": 2
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_48",
+    "city": "Nuremberg",
+    "latitude": 49.07422703453017,
+    "longitude": 12.68585739640667,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 2,
+      "accessibilityScore": 2
+    },
+    "totalScore": 15
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_48",
+    "city": "Vienna",
+    "latitude": 48.55461081381207,
+    "longitude": 14.898622958562667,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 2,
+      "gridScore": 4,
+      "accessibilityScore": 2
+    },
+    "totalScore": 14
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_49",
+    "city": "Rome",
+    "latitude": 42.686424789854584,
+    "longitude": 11.975634564873795,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 5,
+      "accessibilityScore": 4
+    },
+    "totalScore": 24
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_49",
+    "city": "Pisa",
+    "latitude": 43.763539098477494,
+    "longitude": 11.145188547214296,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 2,
+      "accessibilityScore": 3
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_49",
+    "city": "Genoa",
+    "latitude": 44.00597767861699,
+    "longitude": 9.798101884213274,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 5,
+      "accessibilityScore": 5
+    },
+    "totalScore": 22
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_50",
+    "city": "Brussels",
+    "latitude": 51.18617362916831,
+    "longitude": 4.397926985537117,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 2,
+      "accessibilityScore": 4
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_50",
+    "city": "Rotterdam",
+    "latitude": 51.69161875021979,
+    "longitude": 4.454013551616922,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 5,
+      "gridScore": 3,
+      "accessibilityScore": 5
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_50",
+    "city": "Amsterdam",
+    "latitude": 52.12236239129446,
+    "longitude": 4.6699920244012905,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_51",
+    "city": "Zurich",
+    "latitude": 47.39066251121794,
+    "longitude": 7.408418295243809,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 2,
+      "accessibilityScore": 3
+    },
+    "totalScore": 15
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_51",
+    "city": "Geneva",
+    "latitude": 46.18272565346655,
+    "longitude": 6.232415616074187,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 3,
+      "accessibilityScore": 3
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_51",
+    "city": "Milan",
+    "latitude": 45.75161026138662,
+    "longitude": 8.006966246429675,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 3,
+      "gridScore": 3,
+      "accessibilityScore": 2
+    },
+    "totalScore": 15
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_52",
+    "city": "Dublin",
+    "latitude": 54.46739285399081,
+    "longitude": -5.964485041773335,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 4
+    },
+    "totalScore": 16
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_52",
+    "city": "Cork",
+    "latitude": 53.43354444486793,
+    "longitude": -7.027750720908804,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 4
+    },
+    "totalScore": 15
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_52",
+    "city": "Limerick",
+    "latitude": 52.17203143143726,
+    "longitude": -8.217605980908719,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 3,
+      "gridScore": 2,
+      "accessibilityScore": 4
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_53",
+    "city": "Stockholm",
+    "latitude": 59.628624256621606,
+    "longitude": 20.514922072565156,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 5,
+      "accessibilityScore": 5
+    },
+    "totalScore": 24
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_53",
+    "city": "Helsinki",
+    "latitude": 60.07761064155402,
+    "longitude": 24.184405181412888,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 4,
+      "accessibilityScore": 2
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_53",
+    "city": "Saint Petersburg",
+    "latitude": 60.04154982106623,
+    "longitude": 27.87286845743484,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 2,
+      "gridScore": 5,
+      "accessibilityScore": 5
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_54",
+    "city": "Vienna",
+    "latitude": 48.033236211863084,
+    "longitude": 14.91739212423176,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 2,
+      "accessibilityScore": 3
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_54",
+    "city": "Munich",
+    "latitude": 47.879546466243504,
+    "longitude": 12.738112884592505,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 2,
+      "gridScore": 4,
+      "accessibilityScore": 4
+    },
+    "totalScore": 16
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_54",
+    "city": "Stuttgart",
+    "latitude": 48.39732148076664,
+    "longitude": 10.600112135933747,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 3
+    },
+    "totalScore": 14
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_55",
+    "city": "Paris",
+    "latitude": 49.111650782398115,
+    "longitude": 3.4185624322569987,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 4,
+      "accessibilityScore": 3
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_55",
+    "city": "Dijon",
+    "latitude": 48.35901635036652,
+    "longitude": 4.500685502969526,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 3
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_55",
+    "city": "Lyon",
+    "latitude": 46.850997395618975,
+    "longitude": 4.979284123246717,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 3,
+      "gridScore": 5,
+      "accessibilityScore": 4
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_56",
+    "city": "Vienna",
+    "latitude": 47.75673277009517,
+    "longitude": 18.06856590429147,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 3,
+      "accessibilityScore": 5
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_56",
+    "city": "Belgrade",
+    "latitude": 46.05566465671887,
+    "longitude": 19.789536822955824,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 4,
+      "accessibilityScore": 4
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_56",
+    "city": "Skopje",
+    "latitude": 43.65340608524466,
+    "longitude": 20.8457312202828,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 4,
+      "accessibilityScore": 5
+    },
+    "totalScore": 22
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_57",
+    "city": "Berlin",
+    "latitude": 52.9362267420281,
+    "longitude": 12.027951910502926,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 5,
+      "accessibilityScore": 2
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_57",
+    "city": "Hanover",
+    "latitude": 53.519162603642606,
+    "longitude": 9.986588004912585,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 3,
+      "gridScore": 3,
+      "accessibilityScore": 3
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_57",
+    "city": "Dortmund",
+    "latitude": 52.02510284988592,
+    "longitude": 8.809870926401963,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 4,
+      "accessibilityScore": 5
+    },
+    "totalScore": 23
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_58",
+    "city": "Turin",
+    "latitude": 45.30755137584857,
+    "longitude": 8.592237758410725,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 3,
+      "gridScore": 4,
+      "accessibilityScore": 2
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_58",
+    "city": "Verona",
+    "latitude": 45.4529463662114,
+    "longitude": 9.975835140834715,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 2,
+      "accessibilityScore": 3
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_58",
+    "city": "Venice",
+    "latitude": 45.439103363813494,
+    "longitude": 11.379593063615914,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 5,
+      "gridScore": 4,
+      "accessibilityScore": 5
+    },
+    "totalScore": 22
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_59",
+    "city": "Barcelona",
+    "latitude": 41.58248111414871,
+    "longitude": -0.1189005767175777,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 4,
+      "accessibilityScore": 5
+    },
+    "totalScore": 23
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_59",
+    "city": "Lyon",
+    "latitude": 43.21197536649274,
+    "longitude": 1.2854884375237194,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 3,
+      "accessibilityScore": 2
+    },
+    "totalScore": 15
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_59",
+    "city": "Geneva",
+    "latitude": 45.22636636690359,
+    "longitude": 4.087778872776458,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 2,
+      "accessibilityScore": 2
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_60",
+    "city": "Hamburg",
+    "latitude": 52.84262094247582,
+    "longitude": 9.835931986594556,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 2,
+      "gridScore": 5,
+      "accessibilityScore": 2
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_60",
+    "city": "Hanover",
+    "latitude": 52.158795492000465,
+    "longitude": 9.161304432004473,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 2,
+      "accessibilityScore": 4
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_60",
+    "city": "Dortmund",
+    "latitude": 51.77167819680018,
+    "longitude": 8.143701772801789,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 4,
+      "accessibilityScore": 2
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_61",
+    "city": "Amsterdam",
+    "latitude": 52.074314018836226,
+    "longitude": 4.624124234112587,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 4,
+      "accessibilityScore": 5
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_61",
+    "city": "Antwerp",
+    "latitude": 51.52653150237334,
+    "longitude": 4.436004460577492,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 3,
+      "accessibilityScore": 3
+    },
+    "totalScore": 15
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_61",
+    "city": "Ghent",
+    "latitude": 51.14929264007569,
+    "longitude": 4.111582057636939,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 4,
+      "accessibilityScore": 3
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_62",
+    "city": "Oslo",
+    "latitude": 59.02528418952816,
+    "longitude": 11.244827649306478,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 5,
+      "accessibilityScore": 2
+    },
+    "totalScore": 22
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_62",
+    "city": "Copenhagen",
+    "latitude": 57.690747289732805,
+    "longitude": 11.979901684418357,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 3,
+      "accessibilityScore": 3
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_62",
+    "city": "Malmo",
+    "latitude": 56.22781674645352,
+    "longitude": 12.407165489782834,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 3,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_63",
+    "city": "Lisbon",
+    "latitude": 39.54728557178734,
+    "longitude": -8.966134760315866,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 4,
+      "accessibilityScore": 3
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_63",
+    "city": "Vigo",
+    "latitude": 40.79286392946835,
+    "longitude": -8.705486900789662,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 3,
+      "gridScore": 5,
+      "accessibilityScore": 3
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_63",
+    "city": "Santiago de Compostela",
+    "latitude": 42.05431240379743,
+    "longitude": -8.704939453392303,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 5,
+      "accessibilityScore": 4
+    },
+    "totalScore": 23
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_64",
+    "city": "Warsaw",
+    "latitude": 51.05043642271733,
+    "longitude": 20.430902037101124,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 5,
+      "gridScore": 4,
+      "accessibilityScore": 5
+    },
+    "totalScore": 22
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_64",
+    "city": "Bratislava",
+    "latitude": 49.576041816986624,
+    "longitude": 19.221410488667683,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 5,
+      "accessibilityScore": 5
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_64",
+    "city": "Vienna",
+    "latitude": 48.47232563912629,
+    "longitude": 17.58706264072492,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 2,
+      "gridScore": 4,
+      "accessibilityScore": 5
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_65",
+    "city": "Munich",
+    "latitude": 49.25940250717692,
+    "longitude": 11.150633214216782,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 3,
+      "gridScore": 4,
+      "accessibilityScore": 5
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_65",
+    "city": "Dresden",
+    "latitude": 50.275991562726574,
+    "longitude": 12.448185886122957,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 2,
+      "accessibilityScore": 3
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_65",
+    "city": "Berlin",
+    "latitude": 51.34543760408102,
+    "longitude": 13.670587291891588,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 2,
+      "gridScore": 4,
+      "accessibilityScore": 2
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_66",
+    "city": "Vienna",
+    "latitude": 48.941961860505906,
+    "longitude": 15.613042241771842,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 3,
+      "accessibilityScore": 2
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_66",
+    "city": "Dresden",
+    "latitude": 50.04260465126477,
+    "longitude": 14.471905604429606,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 3,
+      "gridScore": 5,
+      "accessibilityScore": 3
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_66",
+    "city": "Leipzig",
+    "latitude": 51.120431848976516,
+    "longitude": 13.40706340002157,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 2,
+      "accessibilityScore": 4
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_67",
+    "city": "Milan",
+    "latitude": 45.02629469341605,
+    "longitude": 10.162490418810087,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 3,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_67",
+    "city": "Florence",
+    "latitude": 44.19149418099688,
+    "longitude": 11.30629002469396,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 3
+    },
+    "totalScore": 16
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_67",
+    "city": "Rome",
+    "latitude": 42.791074313064655,
+    "longitude": 11.906088711812723,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 3,
+      "accessibilityScore": 2
+    },
+    "totalScore": 16
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_68",
+    "city": "Hamburg",
+    "latitude": 51.488571229711184,
+    "longitude": 9.643502457028843,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 3
+    },
+    "totalScore": 16
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_68",
+    "city": "Munich",
+    "latitude": 48.67608322176304,
+    "longitude": 9.556289297125486,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 5,
+      "accessibilityScore": 4
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_68",
+    "city": "Zurich",
+    "latitude": 47.883117773016316,
+    "longitude": 10.571578521895958,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 5,
+      "accessibilityScore": 2
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_69",
+    "city": "Paris",
+    "latitude": 47.60660531656988,
+    "longitude": 3.356003206460161,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 5,
+      "accessibilityScore": 2
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_69",
+    "city": "Geneva",
+    "latitude": 45.77725879969488,
+    "longitude": 4.875063943235804,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 4,
+      "accessibilityScore": 2
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_69",
+    "city": "Zurich",
+    "latitude": 46.67282632284151,
+    "longitude": 7.101426469369177,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 3,
+      "gridScore": 5,
+      "accessibilityScore": 5
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_70",
+    "city": "Helsinki",
+    "latitude": 60.4500428769605,
+    "longitude": 22.28321144161459,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 5,
+      "accessibilityScore": 5
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_70",
+    "city": "Stockholm",
+    "latitude": 59.42273443788515,
+    "longitude": 18.418032312019438,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 5,
+      "gridScore": 3,
+      "accessibilityScore": 5
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_70",
+    "city": "Gothenburg",
+    "latitude": 58.39423951763731,
+    "longitude": 14.552024722588113,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 3,
+      "gridScore": 5,
+      "accessibilityScore": 3
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_71",
+    "city": "Madrid",
+    "latitude": 39.92496907026774,
+    "longitude": -1.975457599868948,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 3,
+      "gridScore": 3,
+      "accessibilityScore": 4
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_71",
+    "city": "Barcelona",
+    "latitude": 40.09018228204716,
+    "longitude": 0.4494799365787557,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 4,
+      "accessibilityScore": 3
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_71",
+    "city": "Toulouse",
+    "latitude": 41.8975088252183,
+    "longitude": 2.0050595263339415,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 2,
+      "gridScore": 3,
+      "accessibilityScore": 3
+    },
+    "totalScore": 15
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_72",
+    "city": "Gda\u0144sk",
+    "latitude": 54.036563474471414,
+    "longitude": 17.248295670591304,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_72",
+    "city": "Berlin",
+    "latitude": 53.56340868617853,
+    "longitude": 15.150839176478264,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 2,
+      "gridScore": 5,
+      "accessibilityScore": 4
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_72",
+    "city": "Dresden",
+    "latitude": 52.448544807654585,
+    "longitude": 13.42115715869378,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 3,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_73",
+    "city": "Barcelona",
+    "latitude": 41.55559534711395,
+    "longitude": 0.19333932295609935,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 3,
+      "accessibilityScore": 2
+    },
+    "totalScore": 14
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_73",
+    "city": "Madrid",
+    "latitude": 40.889099630748476,
+    "longitude": -2.624756354977486,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_73",
+    "city": "Seville",
+    "latitude": 38.976508743890584,
+    "longitude": -4.788739811675114,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 3,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_74",
+    "city": "Stockholm",
+    "latitude": 58.13663104401226,
+    "longitude": 16.44664963931834,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 4,
+      "accessibilityScore": 4
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_74",
+    "city": "Copenhagen",
+    "latitude": 56.34762761003065,
+    "longitude": 14.01372409829585,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 3,
+      "gridScore": 3,
+      "accessibilityScore": 4
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_74",
+    "city": "Hamburg",
+    "latitude": 54.83264169723677,
+    "longitude": 11.546385766449784,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 4,
+      "accessibilityScore": 2
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_75",
+    "city": "Turin",
+    "latitude": 45.494298827303666,
+    "longitude": 8.752844150339001,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 2
+    },
+    "totalScore": 14
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_75",
+    "city": "Lyon",
+    "latitude": 45.699545914038865,
+    "longitude": 5.77183217645286,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 4,
+      "accessibilityScore": 3
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_75",
+    "city": "Zurich",
+    "latitude": 46.581957778742435,
+    "longitude": 6.715141706255476,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 4,
+      "accessibilityScore": 2
+    },
+    "totalScore": 16
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_76",
+    "city": "Vienna",
+    "latitude": 47.71492983866227,
+    "longitude": 18.395647728269815,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 3,
+      "gridScore": 5,
+      "accessibilityScore": 5
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_76",
+    "city": "Budapest",
+    "latitude": 46.515748328689696,
+    "longitude": 21.298755484450126,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 5,
+      "accessibilityScore": 2
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_76",
+    "city": "Bucharest",
+    "latitude": 45.26237933147588,
+    "longitude": 24.18100219378005,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 2,
+      "accessibilityScore": 3
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_77",
+    "city": "Warsaw",
+    "latitude": 52.30047276603967,
+    "longitude": 19.37525435877693,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 5,
+      "gridScore": 2,
+      "accessibilityScore": 4
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_77",
+    "city": "Wroc\u0142aw",
+    "latitude": 52.401051208408695,
+    "longitude": 16.92566670626669,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 5,
+      "gridScore": 2,
+      "accessibilityScore": 2
+    },
+    "totalScore": 15
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_77",
+    "city": "Prague",
+    "latitude": 50.68003441597225,
+    "longitude": 15.960671615283834,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 2
+    },
+    "totalScore": 14
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_78",
+    "city": "Hamburg",
+    "latitude": 52.16004687980892,
+    "longitude": 9.631945169585599,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 3,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_78",
+    "city": "Frankfurt",
+    "latitude": 50.197756875515935,
+    "longitude": 8.722360941988601,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 4,
+      "accessibilityScore": 5
+    },
+    "totalScore": 23
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_78",
+    "city": "Munich",
+    "latitude": 48.94698180274697,
+    "longitude": 10.390393541964812,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 22
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_79",
+    "city": "Stockholm",
+    "latitude": 58.6386901592845,
+    "longitude": 15.47135464742022,
+    "color": "orange",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 2
+    },
+    "totalScore": 13
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_79",
+    "city": "Oslo",
+    "latitude": 58.07009165574305,
+    "longitude": 11.77436386395451,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 3,
+      "accessibilityScore": 3
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_79",
+    "city": "Copenhagen",
+    "latitude": 58.14631809273412,
+    "longitude": 11.509693393219493,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 5,
+      "accessibilityScore": 2
+    },
+    "totalScore": 22
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_80",
+    "city": "Paris",
+    "latitude": 49.52439118516349,
+    "longitude": 2.617832158783017,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 3,
+      "accessibilityScore": 2
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_80",
+    "city": "Brussels",
+    "latitude": 50.52607796290872,
+    "longitude": 3.0162803969575425,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 4,
+      "accessibilityScore": 5
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_80",
+    "city": "Antwerp",
+    "latitude": 50.79202510812839,
+    "longitude": 4.010537539400257,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 2,
+      "accessibilityScore": 3
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_81",
+    "city": "Athens",
+    "latitude": 40.3228136193802,
+    "longitude": 23.037938743614564,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 22
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_81",
+    "city": "Belgrade",
+    "latitude": 43.49069147542411,
+    "longitude": 21.228820348023426,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 5,
+      "gridScore": 3,
+      "accessibilityScore": 4
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_81",
+    "city": "Zagreb",
+    "latitude": 45.2679065958362,
+    "longitude": 18.358277126020692,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 3,
+      "gridScore": 4,
+      "accessibilityScore": 2
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_82",
+    "city": "Zagreb",
+    "latitude": 46.038066973930384,
+    "longitude": 14.620721164867126,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 3,
+      "gridScore": 4,
+      "accessibilityScore": 5
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_82",
+    "city": "Venice",
+    "latitude": 45.52819378482492,
+    "longitude": 12.62619405437757,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 4,
+      "accessibilityScore": 3
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_82",
+    "city": "Milan",
+    "latitude": 45.45387347672906,
+    "longitude": 10.569296943732306,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 4,
+      "accessibilityScore": 4
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_83",
+    "city": "Munich",
+    "latitude": 47.756416789234,
+    "longitude": 10.063521279752223,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 2,
+      "gridScore": 3,
+      "accessibilityScore": 4
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_83",
+    "city": "Milan",
+    "latitude": 46.63908199969827,
+    "longitude": 8.791779682958964,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 2,
+      "gridScore": 3,
+      "accessibilityScore": 2
+    },
+    "totalScore": 14
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_83",
+    "city": "Florence",
+    "latitude": 44.76215068203619,
+    "longitude": 10.045832338634268,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 2,
+      "accessibilityScore": 3
+    },
+    "totalScore": 15
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_84",
+    "city": "Bucharest",
+    "latitude": 44.98328402670869,
+    "longitude": 26.006767361254845,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 3,
+      "gridScore": 2,
+      "accessibilityScore": 2
+    },
+    "totalScore": 15
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_84",
+    "city": "Bra\u0219ov",
+    "latitude": 45.66242307776217,
+    "longitude": 25.53902469074868,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 5,
+      "accessibilityScore": 4
+    },
+    "totalScore": 23
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_84",
+    "city": "Sibiu",
+    "latitude": 45.743949231104864,
+    "longitude": 24.69096987629947,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_85",
+    "city": "Moscow",
+    "latitude": 56.69794928435285,
+    "longitude": 36.16533596099869,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 5,
+      "gridScore": 3,
+      "accessibilityScore": 2
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_85",
+    "city": "Veliky Novgorod",
+    "latitude": 57.634625857417795,
+    "longitude": 33.751419206928595,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 3,
+      "accessibilityScore": 5
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_85",
+    "city": "St. Petersburg",
+    "latitude": 58.510139183681474,
+    "longitude": 31.30721640932898,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 3,
+      "accessibilityScore": 2
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_86",
+    "city": "Dover",
+    "latitude": 50.97912773399894,
+    "longitude": 1.7724606465210067,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 5,
+      "accessibilityScore": 3
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_86",
+    "city": "Calais",
+    "latitude": 50.98679130828052,
+    "longitude": 2.4991630553496225,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_86",
+    "city": "Ghent",
+    "latitude": 51.02729652331221,
+    "longitude": 3.230105222139849,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 5,
+      "accessibilityScore": 2
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_87",
+    "city": "Barcelona",
+    "latitude": 42.66738503442646,
+    "longitude": 3.1548075732769063,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 2,
+      "gridScore": 4,
+      "accessibilityScore": 2
+    },
+    "totalScore": 16
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_87",
+    "city": "Marseille",
+    "latitude": 43.35696099223533,
+    "longitude": 5.083770049098492,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 2,
+      "gridScore": 5,
+      "accessibilityScore": 5
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_87",
+    "city": "Genoa",
+    "latitude": 43.927323211866785,
+    "longitude": 7.404007210568531,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 3,
+      "gridScore": 4,
+      "accessibilityScore": 3
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_88",
+    "city": "Frankfurt",
+    "latitude": 49.17752973780287,
+    "longitude": 9.032209974764678,
+    "color": "orange",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 2
+    },
+    "totalScore": 12
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_88",
+    "city": "Zurich",
+    "latitude": 47.80652095350699,
+    "longitude": 8.738621120443694,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 3,
+      "gridScore": 5,
+      "accessibilityScore": 4
+    },
+    "totalScore": 22
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_88",
+    "city": "Milan",
+    "latitude": 46.40831594152658,
+    "longitude": 8.869996672300056,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_89",
+    "city": "Warsaw",
+    "latitude": 52.309976606430084,
+    "longitude": 19.155434349293973,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 3,
+      "gridScore": 4,
+      "accessibilityScore": 5
+    },
+    "totalScore": 22
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_89",
+    "city": "Wroc\u0142aw",
+    "latitude": 51.85306983776711,
+    "longitude": 16.973480560170184,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 3,
+      "gridScore": 4,
+      "accessibilityScore": 2
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_89",
+    "city": "Berlin",
+    "latitude": 51.846777779555524,
+    "longitude": 15.137280247847183,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 3,
+      "accessibilityScore": 5
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_90",
+    "city": "Brussels",
+    "latitude": 50.39100403455278,
+    "longitude": 2.9625510576346423,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 5,
+      "accessibilityScore": 4
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_90",
+    "city": "Paris",
+    "latitude": 48.453663763581254,
+    "longitude": 2.9281487490624687,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 4,
+      "accessibilityScore": 4
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_90",
+    "city": "Geneva",
+    "latitude": 47.1041055054325,
+    "longitude": 4.857179499624988,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 3,
+      "accessibilityScore": 5
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_91",
+    "city": "Venice",
+    "latitude": 45.440893776739685,
+    "longitude": 10.81746092348024,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 5,
+      "gridScore": 3,
+      "accessibilityScore": 4
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_91",
+    "city": "Milan",
+    "latitude": 45.50675006193418,
+    "longitude": 8.572002219212804,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 5,
+      "accessibilityScore": 4
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_91",
+    "city": "Lyon",
+    "latitude": 45.661100024773674,
+    "longitude": 6.330220887685121,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 4
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_92",
+    "city": "Dublin",
+    "latitude": 54.0130499479775,
+    "longitude": -6.0847447833088815,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 4,
+      "accessibilityScore": 4
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_92",
+    "city": "Larne",
+    "latitude": 54.92987883647779,
+    "longitude": -5.690217450148646,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 4,
+      "accessibilityScore": 4
+    },
+    "totalScore": 23
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_92",
+    "city": "Glasgow",
+    "latitude": 55.490471534591116,
+    "longitude": -4.8271669800594585,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 3,
+      "accessibilityScore": 4
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_93",
+    "city": "Oslo",
+    "latitude": 58.9860285558015,
+    "longitude": 11.266590046888094,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_93",
+    "city": "Malmo",
+    "latitude": 57.591115891108714,
+    "longitude": 12.03221842524403,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 3
+    },
+    "totalScore": 16
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_93",
+    "city": "Copenhagen",
+    "latitude": 56.161618567052344,
+    "longitude": 12.731509573073684,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 5,
+      "accessibilityScore": 2
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_94",
+    "city": "Rome",
+    "latitude": 40.992028152806,
+    "longitude": 14.031713493504858,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 5,
+      "gridScore": 4,
+      "accessibilityScore": 5
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_94",
+    "city": "Florence",
+    "latitude": 42.523581093047284,
+    "longitude": 12.542174238609107,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 2,
+      "accessibilityScore": 3
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_94",
+    "city": "Milan",
+    "latitude": 44.33202758471853,
+    "longitude": 10.570173359783107,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 3,
+      "accessibilityScore": 2
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_95",
+    "city": "Zurich",
+    "latitude": 47.618404242010946,
+    "longitude": 7.6138037936106935,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 4,
+      "accessibilityScore": 5
+    },
+    "totalScore": 22
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_95",
+    "city": "Frankfurt",
+    "latitude": 49.044574818027776,
+    "longitude": 8.225067668840737,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 2,
+      "accessibilityScore": 4
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_95",
+    "city": "Stuttgart",
+    "latitude": 49.744334963944006,
+    "longitude": 8.819599640518945,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 5,
+      "gridScore": 5,
+      "accessibilityScore": 4
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_96",
+    "city": "Stockholm",
+    "latitude": 59.83256128736255,
+    "longitude": 22.181661899620526,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 4,
+      "accessibilityScore": 3
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_96",
+    "city": "St. Petersburg",
+    "latitude": 60.019744653092694,
+    "longitude": 28.373469501255805,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 3,
+      "gridScore": 5,
+      "accessibilityScore": 3
+    },
+    "totalScore": 18
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_96",
+    "city": "Moscow",
+    "latitude": 57.81808097134124,
+    "longitude": 34.02320104355603,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_97",
+    "city": "Paris",
+    "latitude": 48.08332937089801,
+    "longitude": 3.7073131909578976,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 4,
+      "gridScore": 3,
+      "accessibilityScore": 3
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_97",
+    "city": "Geneva",
+    "latitude": 46.74928351730511,
+    "longitude": 5.606068494081032,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 5,
+      "accessibilityScore": 2
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_97",
+    "city": "Milan",
+    "latitude": 45.832530719195034,
+    "longitude": 7.673882686782729,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 5,
+      "amenityScore": 5,
+      "gridScore": 4,
+      "accessibilityScore": 3
+    },
+    "totalScore": 21
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_98",
+    "city": "Hamburg",
+    "latitude": 52.7380080963731,
+    "longitude": 8.984707818831781,
+    "color": "green",
+    "scores": {
+      "distanceScore": 5,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 2,
+      "accessibilityScore": 4
+    },
+    "totalScore": 20
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_98",
+    "city": "Dortmund",
+    "latitude": 51.518370240932754,
+    "longitude": 7.471219547079453,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 3,
+      "gridScore": 2,
+      "accessibilityScore": 3
+    },
+    "totalScore": 15
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_98",
+    "city": "Stuttgart",
+    "latitude": 49.87349598152407,
+    "longitude": 8.494243919254238,
+    "color": "green",
+    "scores": {
+      "distanceScore": 4,
+      "energyScore": 3,
+      "amenityScore": 3,
+      "gridScore": 2,
+      "accessibilityScore": 4
+    },
+    "totalScore": 16
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_99",
+    "city": "Paris",
+    "latitude": 49.177710777940185,
+    "longitude": 3.6947580073451443,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 5,
+      "gridScore": 5,
+      "accessibilityScore": 5
+    },
+    "totalScore": 22
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_99",
+    "city": "Metz",
+    "latitude": 49.14675118557494,
+    "longitude": 5.752280274297346,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 4,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 19
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_99",
+    "city": "Stuttgart",
+    "latitude": 48.93246155709568,
+    "longitude": 7.811393058229644,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 15
+  },
+  {
+    "site": "Site A",
+    "route_id": "route_100",
+    "city": "Belgrade",
+    "latitude": 44.21667698912893,
+    "longitude": 19.20172245992548,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 4,
+      "amenityScore": 2,
+      "gridScore": 2,
+      "accessibilityScore": 5
+    },
+    "totalScore": 16
+  },
+  {
+    "site": "Site B",
+    "route_id": "route_100",
+    "city": "Zagreb",
+    "latitude": 44.602737155566416,
+    "longitude": 17.486598742730855,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 5,
+      "amenityScore": 3,
+      "gridScore": 4,
+      "accessibilityScore": 2
+    },
+    "totalScore": 17
+  },
+  {
+    "site": "Site C",
+    "route_id": "route_100",
+    "city": "Ljubljana",
+    "latitude": 45.83514432003849,
+    "longitude": 15.858977177309564,
+    "color": "green",
+    "scores": {
+      "distanceScore": 3,
+      "energyScore": 3,
+      "amenityScore": 4,
+      "gridScore": 5,
+      "accessibilityScore": 5
+    },
+    "totalScore": 20
+  }
+]

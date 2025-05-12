@@ -1,0 +1,3235 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_1",
+        "cities": [
+          "Amsterdam",
+          "Brussels",
+          "Stuttgart"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9041,
+            52.3676
+          ],
+          [
+            4.3517,
+            50.8503
+          ],
+          [
+            9.1829,
+            48.7758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_2",
+        "cities": [
+          "Warsaw",
+          "Krak\u00f3w",
+          "Bratislava",
+          "Vienna"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.0122,
+            52.2297
+          ],
+          [
+            19.945,
+            50.0647
+          ],
+          [
+            17.1077,
+            48.1486
+          ],
+          [
+            16.3738,
+            48.2082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_3",
+        "cities": [
+          "Barcelona",
+          "Zaragoza",
+          "Lyon",
+          "Geneva"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.1734,
+            41.3851
+          ],
+          [
+            -0.8891,
+            41.6488
+          ],
+          [
+            4.8357,
+            45.764
+          ],
+          [
+            6.1432,
+            46.2044
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_4",
+        "cities": [
+          "Munich",
+          "Zurich",
+          "Milan",
+          "Lyon"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.582,
+            48.1351
+          ],
+          [
+            8.5417,
+            47.3769
+          ],
+          [
+            9.19,
+            45.4642
+          ],
+          [
+            4.8357,
+            45.764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_5",
+        "cities": [
+          "Hamburg",
+          "Frankfurt",
+          "Stuttgart"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9937,
+            53.5511
+          ],
+          [
+            8.6821,
+            50.1109
+          ],
+          [
+            9.1829,
+            48.7758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_6",
+        "cities": [
+          "Stockholm",
+          "Malmo",
+          "Gothenburg",
+          "Oslo"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0686,
+            59.3293
+          ],
+          [
+            13.0038,
+            55.605
+          ],
+          [
+            11.9746,
+            57.7089
+          ],
+          [
+            10.7522,
+            59.9139
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_7",
+        "cities": [
+          "Budapest",
+          "Belgrade",
+          "Zagreb",
+          "Ljubljana"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0402,
+            47.4979
+          ],
+          [
+            20.4489,
+            44.7866
+          ],
+          [
+            15.9819,
+            45.815
+          ],
+          [
+            14.5058,
+            46.0569
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_8",
+        "cities": [
+          "Marseille",
+          "Nice",
+          "Genoa",
+          "Milan"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3698,
+            43.2965
+          ],
+          [
+            7.262,
+            43.7102
+          ],
+          [
+            8.9463,
+            44.4056
+          ],
+          [
+            9.19,
+            45.4642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_9",
+        "cities": [
+          "Hamburg",
+          "Dortmund"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9937,
+            53.5511
+          ],
+          [
+            7.4653,
+            51.5136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_10",
+        "cities": [
+          "Barcelona",
+          "Valencia",
+          "Madrid",
+          "Seville"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.1734,
+            41.3851
+          ],
+          [
+            -0.3763,
+            39.4699
+          ],
+          [
+            -3.7038,
+            40.4168
+          ],
+          [
+            -5.9845,
+            37.3891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_11",
+        "cities": [
+          "Dublin",
+          "Cork",
+          "Belfast"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.2603,
+            53.3498
+          ],
+          [
+            -8.4756,
+            51.8985
+          ],
+          [
+            -5.9301,
+            54.5973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_12",
+        "cities": [
+          "Berlin",
+          "Leipzig",
+          "Dresden",
+          "Prague"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.405,
+            52.52
+          ],
+          [
+            12.3731,
+            51.3397
+          ],
+          [
+            13.7373,
+            51.0504
+          ],
+          [
+            14.4378,
+            50.0755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_13",
+        "cities": [
+          "Lisbon",
+          "Porto",
+          "Santiago de Compostela",
+          "Oviedo"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.1399,
+            38.7169
+          ],
+          [
+            -8.6291,
+            41.1579
+          ],
+          [
+            -8.5448,
+            42.8782
+          ],
+          [
+            -5.8494,
+            43.3619
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_14",
+        "cities": [
+          "Rome",
+          "Naples",
+          "Florence",
+          "Milan"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4964,
+            41.9028
+          ],
+          [
+            14.2681,
+            40.8518
+          ],
+          [
+            11.2558,
+            43.7696
+          ],
+          [
+            9.19,
+            45.4642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_15",
+        "cities": [
+          "Vienna",
+          "Salzburg",
+          "Munich",
+          "Stuttgart"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3738,
+            48.2082
+          ],
+          [
+            13.055,
+            47.8095
+          ],
+          [
+            11.582,
+            48.1351
+          ],
+          [
+            9.1829,
+            48.7758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_16",
+        "cities": [
+          "Warsaw",
+          "Pozna\u0144",
+          "Wroc\u0142aw",
+          "Prague"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.0122,
+            52.2297
+          ],
+          [
+            16.9252,
+            52.4064
+          ],
+          [
+            17.0385,
+            51.1079
+          ],
+          [
+            14.4378,
+            50.0755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_17",
+        "cities": [
+          "Turin",
+          "Lyon",
+          "Geneva",
+          "Zurich"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.6869,
+            45.0703
+          ],
+          [
+            4.8357,
+            45.764
+          ],
+          [
+            6.1432,
+            46.2044
+          ],
+          [
+            8.5417,
+            47.3769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_18",
+        "cities": [
+          "Athens",
+          "Thessaloniki",
+          "Skopje",
+          "Sofia"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.7275,
+            37.9838
+          ],
+          [
+            22.9444,
+            40.6401
+          ],
+          [
+            21.4254,
+            41.9981
+          ],
+          [
+            23.3219,
+            42.6977
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_19",
+        "cities": [
+          "Rotterdam",
+          "The Hague",
+          "Amsterdam",
+          "Antwerp"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.4792,
+            51.9225
+          ],
+          [
+            4.3007,
+            52.0705
+          ],
+          [
+            4.9041,
+            52.3676
+          ],
+          [
+            4.4025,
+            51.2194
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_20",
+        "cities": [
+          "Paris",
+          "Lille",
+          "Brussels",
+          "Amsterdam"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3522,
+            48.8566
+          ],
+          [
+            3.0573,
+            50.6292
+          ],
+          [
+            4.3517,
+            50.8503
+          ],
+          [
+            4.9041,
+            52.3676
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_21",
+        "cities": [
+          "Brussels",
+          "Stuttgart"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.3517,
+            50.8503
+          ],
+          [
+            9.1829,
+            48.7758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_22",
+        "cities": [
+          "Vienna",
+          "Bratislava",
+          "Budapest",
+          "Belgrade"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3738,
+            48.2082
+          ],
+          [
+            17.1077,
+            48.1486
+          ],
+          [
+            19.0402,
+            47.4979
+          ],
+          [
+            20.4489,
+            44.7866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_23",
+        "cities": [
+          "Hamburg",
+          "Dortmund",
+          "Frankfurt"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9937,
+            53.5511
+          ],
+          [
+            7.4653,
+            51.5136
+          ],
+          [
+            8.6821,
+            50.1109
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_24",
+        "cities": [
+          "Madrid",
+          "Valencia",
+          "Barcelona",
+          "Montpellier"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.7038,
+            40.4168
+          ],
+          [
+            -0.3763,
+            39.4699
+          ],
+          [
+            2.1734,
+            41.3851
+          ],
+          [
+            3.8777,
+            43.6119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_25",
+        "cities": [
+          "Geneva",
+          "Zurich",
+          "Munich",
+          "Stuttgart"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1432,
+            46.2044
+          ],
+          [
+            8.5417,
+            47.3769
+          ],
+          [
+            11.582,
+            48.1351
+          ],
+          [
+            9.1829,
+            48.7758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_26",
+        "cities": [
+          "Krak\u00f3w",
+          "Wroc\u0142aw",
+          "Pozna\u0144",
+          "Berlin"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.945,
+            50.0647
+          ],
+          [
+            17.0385,
+            51.1079
+          ],
+          [
+            16.9252,
+            52.4064
+          ],
+          [
+            13.405,
+            52.52
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_27",
+        "cities": [
+          "Paris",
+          "Dijon",
+          "Lyon",
+          "Marseille"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3522,
+            48.8566
+          ],
+          [
+            5.0415,
+            47.322
+          ],
+          [
+            4.8357,
+            45.764
+          ],
+          [
+            5.3698,
+            43.2965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_28",
+        "cities": [
+          "Stockholm",
+          "\u00d6stersund",
+          "Trondheim",
+          "Bergen"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0686,
+            59.3293
+          ],
+          [
+            14.6357,
+            63.1792
+          ],
+          [
+            10.3951,
+            63.4305
+          ],
+          [
+            5.3221,
+            60.3913
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_29",
+        "cities": [
+          "Oslo",
+          "Gothenburg",
+          "Copenhagen",
+          "Malmo"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.7522,
+            59.9139
+          ],
+          [
+            11.9746,
+            57.7089
+          ],
+          [
+            12.5683,
+            55.6761
+          ],
+          [
+            13.0038,
+            55.605
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_30",
+        "cities": [
+          "Warsaw",
+          "L\u00f3d\u017a",
+          "Pozna\u0144",
+          "Prague"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.0122,
+            52.2297
+          ],
+          [
+            19.456,
+            51.7592
+          ],
+          [
+            16.9252,
+            52.4064
+          ],
+          [
+            14.4378,
+            50.0755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_31",
+        "cities": [
+          "Munich",
+          "Stuttgart",
+          "Milan"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.582,
+            48.1351
+          ],
+          [
+            9.1829,
+            48.7758
+          ],
+          [
+            9.19,
+            45.4642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_32",
+        "cities": [
+          "Hamburg",
+          "Rostock",
+          "Szczecin"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9937,
+            53.5511
+          ],
+          [
+            12.0991,
+            54.0924
+          ],
+          [
+            14.5528,
+            53.4285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_33",
+        "cities": [
+          "Madrid",
+          "Seville",
+          "Cordoba",
+          "Valencia"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.7038,
+            40.4168
+          ],
+          [
+            -5.9845,
+            37.3891
+          ],
+          [
+            -4.7794,
+            37.8882
+          ],
+          [
+            -0.3763,
+            39.4699
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_34",
+        "cities": [
+          "Barcelona",
+          "Perpignan",
+          "Marseille",
+          "Lyon"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.1734,
+            41.3851
+          ],
+          [
+            2.8948,
+            42.6887
+          ],
+          [
+            5.3698,
+            43.2965
+          ],
+          [
+            4.8357,
+            45.764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_35",
+        "cities": [
+          "Budapest",
+          "Vienna",
+          "Salzburg",
+          "Munich"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0402,
+            47.4979
+          ],
+          [
+            16.3738,
+            48.2082
+          ],
+          [
+            13.055,
+            47.8095
+          ],
+          [
+            11.582,
+            48.1351
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_36",
+        "cities": [
+          "Dover",
+          "Calais",
+          "Lille",
+          "Brussels"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.308,
+            51.129
+          ],
+          [
+            1.8587,
+            50.9513
+          ],
+          [
+            3.0573,
+            50.6292
+          ],
+          [
+            4.3517,
+            50.8503
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_37",
+        "cities": [
+          "Zurich",
+          "Milan",
+          "Turin",
+          "Lyon"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5417,
+            47.3769
+          ],
+          [
+            9.19,
+            45.4642
+          ],
+          [
+            7.6869,
+            45.0703
+          ],
+          [
+            4.8357,
+            45.764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_38",
+        "cities": [
+          "Amsterdam",
+          "Frankfurt",
+          "Stuttgart"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9041,
+            52.3676
+          ],
+          [
+            8.6821,
+            50.1109
+          ],
+          [
+            9.1829,
+            48.7758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_39",
+        "cities": [
+          "Turin",
+          "Milan",
+          "Bologna",
+          "Florence"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.6869,
+            45.0703
+          ],
+          [
+            9.19,
+            45.4642
+          ],
+          [
+            11.3426,
+            44.4949
+          ],
+          [
+            11.2558,
+            43.7696
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_40",
+        "cities": [
+          "Athens",
+          "Thessaloniki",
+          "Skopje",
+          "Belgrade",
+          "Zagreb"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.7275,
+            37.9838
+          ],
+          [
+            22.9444,
+            40.6401
+          ],
+          [
+            21.4254,
+            41.9981
+          ],
+          [
+            20.4489,
+            44.7866
+          ],
+          [
+            15.9819,
+            45.815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_41",
+        "cities": [
+          "Stockholm",
+          "Gothenburg",
+          "Malmo",
+          "Copenhagen"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0686,
+            59.3293
+          ],
+          [
+            11.9746,
+            57.7089
+          ],
+          [
+            13.0038,
+            55.605
+          ],
+          [
+            12.5683,
+            55.6761
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_42",
+        "cities": [
+          "Paris",
+          "Brussels",
+          "Amsterdam",
+          "Rotterdam"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3522,
+            48.8566
+          ],
+          [
+            4.3517,
+            50.8503
+          ],
+          [
+            4.9041,
+            52.3676
+          ],
+          [
+            4.4792,
+            51.9225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_43",
+        "cities": [
+          "Berlin",
+          "Dresden",
+          "Wroc\u0142aw",
+          "Lviv"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.405,
+            52.52
+          ],
+          [
+            13.7373,
+            51.0504
+          ],
+          [
+            17.0385,
+            51.1079
+          ],
+          [
+            24.0297,
+            49.8397
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_44",
+        "cities": [
+          "Madrid",
+          "Lisbon",
+          "Porto",
+          "Vigo"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.7038,
+            40.4168
+          ],
+          [
+            -9.1399,
+            38.7169
+          ],
+          [
+            -8.6291,
+            41.1579
+          ],
+          [
+            -8.7207,
+            42.2406
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_45",
+        "cities": [
+          "Budapest",
+          "Bucharest",
+          "Sofia",
+          "Istanbul"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0402,
+            47.4979
+          ],
+          [
+            26.1025,
+            44.4268
+          ],
+          [
+            23.3219,
+            42.6977
+          ],
+          [
+            28.9784,
+            41.0082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_46",
+        "cities": [
+          "Copenhagen",
+          "Malmo",
+          "Gothenburg",
+          "Oslo"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5683,
+            55.6761
+          ],
+          [
+            13.0038,
+            55.605
+          ],
+          [
+            11.9746,
+            57.7089
+          ],
+          [
+            10.7522,
+            59.9139
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_47",
+        "cities": [
+          "Warsaw",
+          "Pozna\u0144",
+          "Wroc\u0142aw",
+          "Zabrze"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.0122,
+            52.2297
+          ],
+          [
+            16.9252,
+            52.4064
+          ],
+          [
+            17.0385,
+            51.1079
+          ],
+          [
+            18.7857,
+            50.3249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_48",
+        "cities": [
+          "Munich",
+          "Regensburg",
+          "Nuremberg",
+          "Vienna"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.582,
+            48.1351
+          ],
+          [
+            12.1016,
+            49.0134
+          ],
+          [
+            11.0767,
+            49.4521
+          ],
+          [
+            16.3738,
+            48.2082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_49",
+        "cities": [
+          "Rome",
+          "Florence",
+          "Pisa",
+          "Genoa"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4964,
+            41.9028
+          ],
+          [
+            11.2558,
+            43.7696
+          ],
+          [
+            10.4017,
+            43.7228
+          ],
+          [
+            8.9463,
+            44.4056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_50",
+        "cities": [
+          "Brussels",
+          "Antwerp",
+          "Rotterdam",
+          "Amsterdam"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.3517,
+            50.8503
+          ],
+          [
+            4.4025,
+            51.2194
+          ],
+          [
+            4.4792,
+            51.9225
+          ],
+          [
+            4.9041,
+            52.3676
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_51",
+        "cities": [
+          "Zurich",
+          "Basel",
+          "Geneva",
+          "Milan"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5417,
+            47.3769
+          ],
+          [
+            7.5886,
+            47.5596
+          ],
+          [
+            6.1432,
+            46.2044
+          ],
+          [
+            9.19,
+            45.4642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_52",
+        "cities": [
+          "Dublin",
+          "Belfast",
+          "Cork",
+          "Limerick"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.2603,
+            53.3498
+          ],
+          [
+            -5.9301,
+            54.5973
+          ],
+          [
+            -8.4756,
+            51.8985
+          ],
+          [
+            -8.6267,
+            52.6638
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_53",
+        "cities": [
+          "Stockholm",
+          "Helsinki",
+          "Saint Petersburg"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0686,
+            59.3293
+          ],
+          [
+            24.9354,
+            60.1695
+          ],
+          [
+            30.3351,
+            59.9343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_54",
+        "cities": [
+          "Vienna",
+          "Salzburg",
+          "Munich",
+          "Stuttgart"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3738,
+            48.2082
+          ],
+          [
+            13.055,
+            47.8095
+          ],
+          [
+            11.582,
+            48.1351
+          ],
+          [
+            9.1829,
+            48.7758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_55",
+        "cities": [
+          "Paris",
+          "Reims",
+          "Dijon",
+          "Lyon"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3522,
+            48.8566
+          ],
+          [
+            4.0317,
+            49.2583
+          ],
+          [
+            5.0415,
+            47.322
+          ],
+          [
+            4.8357,
+            45.764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_56",
+        "cities": [
+          "Vienna",
+          "Budapest",
+          "Belgrade",
+          "Skopje"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3738,
+            48.2082
+          ],
+          [
+            19.0402,
+            47.4979
+          ],
+          [
+            20.4489,
+            44.7866
+          ],
+          [
+            21.4254,
+            41.9981
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_57",
+        "cities": [
+          "Berlin",
+          "Hamburg",
+          "Hanover",
+          "Dortmund"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.405,
+            52.52
+          ],
+          [
+            9.9937,
+            53.5511
+          ],
+          [
+            9.732,
+            52.3759
+          ],
+          [
+            7.4653,
+            51.5136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_58",
+        "cities": [
+          "Turin",
+          "Milan",
+          "Verona",
+          "Venice"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.6869,
+            45.0703
+          ],
+          [
+            9.19,
+            45.4642
+          ],
+          [
+            10.9916,
+            45.4384
+          ],
+          [
+            12.3155,
+            45.4408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_59",
+        "cities": [
+          "Barcelona",
+          "Zaragoza",
+          "Lyon",
+          "Geneva"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.1734,
+            41.3851
+          ],
+          [
+            -0.8891,
+            41.6488
+          ],
+          [
+            4.8357,
+            45.764
+          ],
+          [
+            6.1432,
+            46.2044
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_60",
+        "cities": [
+          "Hamburg",
+          "Hanover",
+          "Dortmund"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9937,
+            53.5511
+          ],
+          [
+            9.732,
+            52.3759
+          ],
+          [
+            7.4653,
+            51.5136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_61",
+        "cities": [
+          "Amsterdam",
+          "Rotterdam",
+          "Antwerp",
+          "Ghent"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9041,
+            52.3676
+          ],
+          [
+            4.4792,
+            51.9225
+          ],
+          [
+            4.4025,
+            51.2194
+          ],
+          [
+            3.7174,
+            51.0543
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_62",
+        "cities": [
+          "Oslo",
+          "Gothenburg",
+          "Copenhagen",
+          "Malmo"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.7522,
+            59.9139
+          ],
+          [
+            11.9746,
+            57.7089
+          ],
+          [
+            12.5683,
+            55.6761
+          ],
+          [
+            13.0038,
+            55.605
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_63",
+        "cities": [
+          "Lisbon",
+          "Porto",
+          "Vigo",
+          "Santiago de Compostela"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.1399,
+            38.7169
+          ],
+          [
+            -8.6291,
+            41.1579
+          ],
+          [
+            -8.7207,
+            42.2406
+          ],
+          [
+            -8.5448,
+            42.8782
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_64",
+        "cities": [
+          "Warsaw",
+          "Krak\u00f3w",
+          "Bratislava",
+          "Vienna"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.0122,
+            52.2297
+          ],
+          [
+            19.945,
+            50.0647
+          ],
+          [
+            17.1077,
+            48.1486
+          ],
+          [
+            16.3738,
+            48.2082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_65",
+        "cities": [
+          "Munich",
+          "Nuremberg",
+          "Dresden",
+          "Berlin"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.582,
+            48.1351
+          ],
+          [
+            11.0767,
+            49.4521
+          ],
+          [
+            13.7373,
+            51.0504
+          ],
+          [
+            13.405,
+            52.52
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_66",
+        "cities": [
+          "Vienna",
+          "Prague",
+          "Dresden",
+          "Leipzig"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3738,
+            48.2082
+          ],
+          [
+            14.4378,
+            50.0755
+          ],
+          [
+            13.7373,
+            51.0504
+          ],
+          [
+            12.3731,
+            51.3397
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_67",
+        "cities": [
+          "Milan",
+          "Bologna",
+          "Florence",
+          "Rome"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.19,
+            45.4642
+          ],
+          [
+            11.3426,
+            44.4949
+          ],
+          [
+            11.2558,
+            43.7696
+          ],
+          [
+            12.4964,
+            41.9028
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_68",
+        "cities": [
+          "Hamburg",
+          "Stuttgart",
+          "Munich",
+          "Zurich"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9937,
+            53.5511
+          ],
+          [
+            9.1829,
+            48.7758
+          ],
+          [
+            11.582,
+            48.1351
+          ],
+          [
+            8.5417,
+            47.3769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_69",
+        "cities": [
+          "Paris",
+          "Lyon",
+          "Geneva",
+          "Zurich"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3522,
+            48.8566
+          ],
+          [
+            4.8357,
+            45.764
+          ],
+          [
+            6.1432,
+            46.2044
+          ],
+          [
+            8.5417,
+            47.3769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_70",
+        "cities": [
+          "Helsinki",
+          "Turku",
+          "Stockholm",
+          "Gothenburg"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.9354,
+            60.1695
+          ],
+          [
+            22.2666,
+            60.4518
+          ],
+          [
+            18.0686,
+            59.3293
+          ],
+          [
+            11.9746,
+            57.7089
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_71",
+        "cities": [
+          "Madrid",
+          "Valencia",
+          "Barcelona",
+          "Toulouse"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.7038,
+            40.4168
+          ],
+          [
+            -0.3763,
+            39.4699
+          ],
+          [
+            2.1734,
+            41.3851
+          ],
+          [
+            1.4442,
+            43.6047
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_72",
+        "cities": [
+          "Gda\u0144sk",
+          "Szczecin",
+          "Berlin",
+          "Dresden"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.6466,
+            54.352
+          ],
+          [
+            14.5528,
+            53.4285
+          ],
+          [
+            13.405,
+            52.52
+          ],
+          [
+            13.7373,
+            51.0504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_73",
+        "cities": [
+          "Barcelona",
+          "Zaragoza",
+          "Madrid",
+          "Seville"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.1734,
+            41.3851
+          ],
+          [
+            -0.8891,
+            41.6488
+          ],
+          [
+            -3.7038,
+            40.4168
+          ],
+          [
+            -5.9845,
+            37.3891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_74",
+        "cities": [
+          "Stockholm",
+          "Malmo",
+          "Copenhagen",
+          "Hamburg"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0686,
+            59.3293
+          ],
+          [
+            13.0038,
+            55.605
+          ],
+          [
+            12.5683,
+            55.6761
+          ],
+          [
+            9.9937,
+            53.5511
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_75",
+        "cities": [
+          "Turin",
+          "Milan",
+          "Lyon",
+          "Zurich"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.6869,
+            45.0703
+          ],
+          [
+            9.19,
+            45.4642
+          ],
+          [
+            4.8357,
+            45.764
+          ],
+          [
+            8.5417,
+            47.3769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_76",
+        "cities": [
+          "Vienna",
+          "Bratislava",
+          "Budapest",
+          "Bucharest"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3738,
+            48.2082
+          ],
+          [
+            17.1077,
+            48.1486
+          ],
+          [
+            19.0402,
+            47.4979
+          ],
+          [
+            26.1025,
+            44.4268
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_77",
+        "cities": [
+          "Warsaw",
+          "Pozna\u0144",
+          "Wroc\u0142aw",
+          "Prague"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.0122,
+            52.2297
+          ],
+          [
+            16.9252,
+            52.4064
+          ],
+          [
+            17.0385,
+            51.1079
+          ],
+          [
+            14.4378,
+            50.0755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_78",
+        "cities": [
+          "Hamburg",
+          "Hanover",
+          "Frankfurt",
+          "Munich"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9937,
+            53.5511
+          ],
+          [
+            9.732,
+            52.3759
+          ],
+          [
+            8.6821,
+            50.1109
+          ],
+          [
+            11.582,
+            48.1351
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_79",
+        "cities": [
+          "Stockholm",
+          "Gothenburg",
+          "Oslo",
+          "Copenhagen"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0686,
+            59.3293
+          ],
+          [
+            11.9746,
+            57.7089
+          ],
+          [
+            10.7522,
+            59.9139
+          ],
+          [
+            12.5683,
+            55.6761
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_80",
+        "cities": [
+          "Paris",
+          "Lille",
+          "Brussels",
+          "Antwerp"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3522,
+            48.8566
+          ],
+          [
+            3.0573,
+            50.6292
+          ],
+          [
+            4.3517,
+            50.8503
+          ],
+          [
+            4.4025,
+            51.2194
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_81",
+        "cities": [
+          "Athens",
+          "Thessaloniki",
+          "Belgrade",
+          "Zagreb"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.7275,
+            37.9838
+          ],
+          [
+            22.9444,
+            40.6401
+          ],
+          [
+            20.4489,
+            44.7866
+          ],
+          [
+            15.9819,
+            45.815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_82",
+        "cities": [
+          "Zagreb",
+          "Ljubljana",
+          "Venice",
+          "Milan"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.9819,
+            45.815
+          ],
+          [
+            14.5058,
+            46.0569
+          ],
+          [
+            12.3155,
+            45.4408
+          ],
+          [
+            9.19,
+            45.4642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_83",
+        "cities": [
+          "Munich",
+          "Zurich",
+          "Milan",
+          "Florence"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.582,
+            48.1351
+          ],
+          [
+            8.5417,
+            47.3769
+          ],
+          [
+            9.19,
+            45.4642
+          ],
+          [
+            11.2558,
+            43.7696
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_84",
+        "cities": [
+          "Bucharest",
+          "Ploie\u0219ti",
+          "Bra\u0219ov",
+          "Sibiu"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.1025,
+            44.4268
+          ],
+          [
+            26.0306,
+            44.9429
+          ],
+          [
+            25.61,
+            45.6556
+          ],
+          [
+            24.1256,
+            45.7983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_85",
+        "cities": [
+          "Moscow",
+          "Tver",
+          "Veliky Novgorod",
+          "St. Petersburg"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.6173,
+            55.7558
+          ],
+          [
+            35.9176,
+            56.8587
+          ],
+          [
+            31.2755,
+            58.5215
+          ],
+          [
+            30.3351,
+            59.9343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_86",
+        "cities": [
+          "Dover",
+          "Calais",
+          "Ghent"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.308,
+            51.129
+          ],
+          [
+            1.8587,
+            50.9513
+          ],
+          [
+            3.7174,
+            51.0543
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_87",
+        "cities": [
+          "Barcelona",
+          "Montpellier",
+          "Marseille",
+          "Genoa"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.1734,
+            41.3851
+          ],
+          [
+            3.8777,
+            43.6119
+          ],
+          [
+            5.3698,
+            43.2965
+          ],
+          [
+            8.9463,
+            44.4056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_88",
+        "cities": [
+          "Frankfurt",
+          "Stuttgart",
+          "Zurich",
+          "Milan"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6821,
+            50.1109
+          ],
+          [
+            9.1829,
+            48.7758
+          ],
+          [
+            8.5417,
+            47.3769
+          ],
+          [
+            9.19,
+            45.4642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_89",
+        "cities": [
+          "Warsaw",
+          "Pozna\u0144",
+          "Wroc\u0142aw",
+          "Berlin"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.0122,
+            52.2297
+          ],
+          [
+            16.9252,
+            52.4064
+          ],
+          [
+            17.0385,
+            51.1079
+          ],
+          [
+            13.405,
+            52.52
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_90",
+        "cities": [
+          "Brussels",
+          "Lille",
+          "Paris",
+          "Geneva"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.3517,
+            50.8503
+          ],
+          [
+            3.0573,
+            50.6292
+          ],
+          [
+            2.3522,
+            48.8566
+          ],
+          [
+            6.1432,
+            46.2044
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_91",
+        "cities": [
+          "Venice",
+          "Verona",
+          "Milan",
+          "Lyon"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3155,
+            45.4408
+          ],
+          [
+            10.9916,
+            45.4384
+          ],
+          [
+            9.19,
+            45.4642
+          ],
+          [
+            4.8357,
+            45.764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_92",
+        "cities": [
+          "Dublin",
+          "Belfast",
+          "Larne",
+          "Glasgow"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.2603,
+            53.3498
+          ],
+          [
+            -5.9301,
+            54.5973
+          ],
+          [
+            -5.8115,
+            54.8511
+          ],
+          [
+            -4.2518,
+            55.8642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_93",
+        "cities": [
+          "Oslo",
+          "Gothenburg",
+          "Malmo",
+          "Copenhagen"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.7522,
+            59.9139
+          ],
+          [
+            11.9746,
+            57.7089
+          ],
+          [
+            13.0038,
+            55.605
+          ],
+          [
+            12.5683,
+            55.6761
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_94",
+        "cities": [
+          "Rome",
+          "Naples",
+          "Florence",
+          "Milan"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4964,
+            41.9028
+          ],
+          [
+            14.2681,
+            40.8518
+          ],
+          [
+            11.2558,
+            43.7696
+          ],
+          [
+            9.19,
+            45.4642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_95",
+        "cities": [
+          "Zurich",
+          "Basel",
+          "Frankfurt",
+          "Stuttgart"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5417,
+            47.3769
+          ],
+          [
+            7.5886,
+            47.5596
+          ],
+          [
+            8.6821,
+            50.1109
+          ],
+          [
+            9.1829,
+            48.7758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_96",
+        "cities": [
+          "Stockholm",
+          "Helsinki",
+          "St. Petersburg",
+          "Moscow"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0686,
+            59.3293
+          ],
+          [
+            24.9354,
+            60.1695
+          ],
+          [
+            30.3351,
+            59.9343
+          ],
+          [
+            37.6173,
+            55.7558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_97",
+        "cities": [
+          "Paris",
+          "Dijon",
+          "Geneva",
+          "Milan"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3522,
+            48.8566
+          ],
+          [
+            5.0415,
+            47.322
+          ],
+          [
+            6.1432,
+            46.2044
+          ],
+          [
+            9.19,
+            45.4642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_98",
+        "cities": [
+          "Hamburg",
+          "Dortmund",
+          "Stuttgart"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9937,
+            53.5511
+          ],
+          [
+            7.4653,
+            51.5136
+          ],
+          [
+            9.1829,
+            48.7758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_99",
+        "cities": [
+          "Paris",
+          "Reims",
+          "Metz",
+          "Stuttgart"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3522,
+            48.8566
+          ],
+          [
+            4.0317,
+            49.2583
+          ],
+          [
+            6.1757,
+            49.1193
+          ],
+          [
+            9.1829,
+            48.7758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "route_100",
+        "cities": [
+          "Belgrade",
+          "Sarajevo",
+          "Zagreb",
+          "Ljubljana"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.4489,
+            44.7866
+          ],
+          [
+            18.4131,
+            43.8563
+          ],
+          [
+            15.9819,
+            45.815
+          ],
+          [
+            14.5058,
+            46.0569
+          ]
+        ]
+      }
+    }
+  ]
+}
